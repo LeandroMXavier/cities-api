@@ -10,13 +10,17 @@ com/github/LeandroMXavier/citiesapi1/CitiesApi1Application.java
  com.github.LeandroMXavier.citiesapi1.CitiesApi1Application
 com/github/LeandroMXavier/citiesapi1/countries/resources/CountryResource.java
  com.github.LeandroMXavier.citiesapi1.countries.resources.CountryResource
-com/github/LeandroMXavier/citiesapi1/cities/repositories/CityRepository.java
- com.github.LeandroMXavier.citiesapi1.cities.repositories.CityRepository
-com/github/LeandroMXavier/citiesapi1/states/resources/StateResource.java
- com.github.LeandroMXavier.citiesapi1.states.resources.StateResource
-com/github/LeandroMXavier/citiesapi1/cities/resources/CityResource.java
- com.github.LeandroMXavier.citiesapi1.cities.resources.CityResource
 com/github/LeandroMXavier/citiesapi1/cities/entities/PointType.java
  com.github.LeandroMXavier.citiesapi1.cities.entities.PointType
+com/github/LeandroMXavier/citiesapi1/states/resources/StateResource.java
+ com.github.LeandroMXavier.citiesapi1.states.resources.StateResource
 com/github/LeandroMXavier/citiesapi1/cities/entities/City.java
  com.github.LeandroMXavier.citiesapi1.cities.entities.City
+com/github/LeandroMXavier/citiesapi1/cities/repositories/CityRepository.java
+ com.github.LeandroMXavier.citiesapi1.cities.repositories.CityRepository
+com/github/LeandroMXavier/citiesapi1/cities/resources/CityResource.java
+ com.github.LeandroMXavier.citiesapi1.cities.resources.CityResource
+com/github/LeandroMXavier/citiesapi1/distances/DistanceResource.java
+ com.github.LeandroMXavier.citiesapi1.distances.DistanceResource
+com/github/LeandroMXavier/citiesapi1/distances/service/DistanceService.java
+ com.github.LeandroMXavier.citiesapi1.distances.service.DistanceService
